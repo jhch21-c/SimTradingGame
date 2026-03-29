@@ -1,6 +1,4 @@
 # SimTradingGame
-
-<<<<<<< HEAD
 A Python-based simulated trading platform with real-time price updates, strategy testing, and portfolio management.
 
 ## Features
