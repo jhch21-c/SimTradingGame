@@ -1,5 +1,6 @@
 # SimTradingGame
 
+<<<<<<< HEAD
 A Python-based simulated trading platform with real-time price updates, strategy testing, and portfolio management.
 
 ## Features
@@ -65,4 +66,14 @@ SimTradingGame/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+Blackelm Equity Project - Final Trading Game not completed yet, work under progress
+
+Commands: 
+Run using Terminal Command - Streamlit run command - run main.py
+user: admin - password: admin -> Leads to admin terminal 
+
+
+
+>>>>>>> 41b37f039eae287941772b1dabcc5329f15b526c
 
